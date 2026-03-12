@@ -1,0 +1,2 @@
+# curiosity--project-palisade--economic-perimeter-sensors
+Deploy a lightweight, always-on scanner that monitors blockchain and social sentiment for micro-opportunities that cost less than $5 to engage with but have asymmetric upside (e.g., eligible airdrop interactions, gas-optimal bridging windows, NFT mint floor anomalies). This creates a continuous, automated "foraging" layer that feeds the treasury wi
